@@ -1,0 +1,13 @@
+  body {
+  text-align: center;
+  background: whitesmoke;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  background: #47D1AC;
+  height: 50px;
+  margin: -9px;
+  font-family: 'Inconsolata', monospace;
+}
